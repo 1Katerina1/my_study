@@ -1,12 +1,17 @@
 ### Изучаю Python =D
 
-20.06.2023: https://www.youtube.com/watch?v=fp5-XQFr_nk&t=396s (Учим Python за 1 час! #От Профессионала, Хауди Хо)
+__20.06.2023:__
+* ["Учим Python за 1 час! #От Профессионала", Хауди Хо](https://www.youtube.com/watch?v=fp5-XQFr_nk&t=396s)
 
+* ["Создание файла README.md синтаксис Markdown", ITDoctor](https://www.youtube.com/watch?v=syrGPPekLHQ)
 
+__21.06.2023:__
 
 
 ---
 ### А здесь изучаю оформление README.MD:
+
+<a id="anchor"></a>
 
 # Hello
 ## Hello
@@ -56,3 +61,11 @@ Bushy tail[^1]
 :----|:----------:|--------:
 красный| 1 | 256
 синий | 2 | 22
+***
+\# Здесь тоже можно экранировать
+***
+Термин
+: Определение 
+***
+[Вверх](#anchor)
+***
