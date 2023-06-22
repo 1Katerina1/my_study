@@ -6,6 +6,9 @@ __20.06.2023:__
 * ["Создание файла README.md синтаксис Markdown", ITDoctor](https://www.youtube.com/watch?v=syrGPPekLHQ)
 
 __21.06.2023:__
+* Продолжение: ["Учим Python за 1 час! #От Профессионала", Хауди Хо](https://www.youtube.com/watch?v=fp5-XQFr_nk&t=396s)
+
+__22.06.2023:__
 
 
 ---
