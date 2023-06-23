@@ -20,6 +20,12 @@ __22.06.2023:__
 
 (Бот работает только если включен ноутбук и запущен код)
 
+__23.06.2023:__
+* ["Python-джедай #1 - Введение", Хауди Хо](https://www.youtube.com/watch?v=ahe3WpBMdm4)
+* ["Python-джедай #2 - Простые операции", Хауди Хо](https://www.youtube.com/watch?v=qArArdupftM)
+* ["Python-джедай #3 - Работа со строками", Хауди Хо](https://www.youtube.com/watch?v=T-DmoA08d3Y)
+* ["Python-джедай #4 - Типы данных, переменные", Хауди Хо](https://www.youtube.com/watch?v=5h-KmmxEMvA)
+* ["Python-джедай #5 - Управляющие структуры", Хауди Хо](https://www.youtube.com/watch?v=BVHhfQgRmuE) 
 
 
 ---
