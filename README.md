@@ -27,6 +27,11 @@ __23.06.2023:__
 * ["Python-джедай #4 - Типы данных, переменные", Хауди Хо](https://www.youtube.com/watch?v=5h-KmmxEMvA)
 * ["Python-джедай #5 - Управляющие структуры", Хауди Хо](https://www.youtube.com/watch?v=BVHhfQgRmuE) 
 
+__24.06.2023:__
+* ["Python-джедай #6 - Множественные условия, приоритетность операторов", Хауди Хо](https://www.youtube.com/watch?v=eFmvvJXxs7g)
+* ["Python-джедай #7 - Циклы", Хауди Хо](https://www.youtube.com/watch?v=7D4azTSKAwg)
+* ["Python-джедай #8 - Списки", Хауди Хо](https://www.youtube.com/watch?v=iRZsMSvAVm8)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
