@@ -32,6 +32,13 @@ __24.06.2023:__
 * ["Python-джедай #7 - Циклы", Хауди Хо](https://www.youtube.com/watch?v=7D4azTSKAwg)
 * ["Python-джедай #8 - Списки", Хауди Хо](https://www.youtube.com/watch?v=iRZsMSvAVm8)
 
+__25.06.2023:__
+* [Mutable and immutable objects](https://informatics.msk.ru/mod/page/view.php?id=37581)
+* ["Python-джедай #9 - Диапазоны, Обход списков", Хауди Хо](https://www.youtube.com/watch?v=z7oT_0WN2Bg)
+* ["Python-джедай #10 - Свои функции", Хауди Хо](https://www.youtube.com/watch?v=grMu71nj1u8)
+* ["Python-джедай #11 - Комментарии, docstring", Хауди Хо](https://www.youtube.com/watch?v=gt_qPSiKb04)
+* ["Python-джедай #12 - Модули, Рандом, SDL, Prebuild Binaries, PyPi, PiP", Хауди Хо](https://www.youtube.com/watch?v=-NTIn3-Oylc)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
