@@ -39,6 +39,10 @@ __25.06.2023:__
 * ["Python-джедай #11 - Комментарии, docstring", Хауди Хо](https://www.youtube.com/watch?v=gt_qPSiKb04)
 * ["Python-джедай #12 - Модули, Рандом, SDL, Prebuild Binaries, PyPi, PiP", Хауди Хо](https://www.youtube.com/watch?v=-NTIn3-Oylc)
 
+__26.06.2023:__
+* ["Python-джедай #13 - Используем PyPi, Узнаём погоду в любом городе", Хауди Хо](https://www.youtube.com/watch?v=53GBGBcMS6I)
+* ["Python-джедай #14 - Введение в исключения, pass, eval", Хауди Хо](https://www.youtube.com/watch?v=6IUCEITf0ao)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
