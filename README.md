@@ -42,6 +42,10 @@ __25.06.2023:__
 __26.06.2023:__
 * ["Python-джедай #13 - Используем PyPi, Узнаём погоду в любом городе", Хауди Хо](https://www.youtube.com/watch?v=53GBGBcMS6I)
 * ["Python-джедай #14 - Введение в исключения, pass, eval", Хауди Хо](https://www.youtube.com/watch?v=6IUCEITf0ao)
+* ["Python-джедай #15 - Работа с файлами, assert, len, with", Хауди Хо](https://www.youtube.com/watch?v=190xJqI5qQE)
+
+__27.06.2023:__
+* Продолжение: ["Python-джедай #15 - Работа с файлами, assert, len, with", Хауди Хо](https://www.youtube.com/watch?v=190xJqI5qQE)
 
 
 ---
