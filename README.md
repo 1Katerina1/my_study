@@ -50,6 +50,7 @@ __27.06.2023:__
 __28.06.2023:__
 * ["Python-джедай #16 - Новые типы данных None и Dictionary", Хауди Хо](https://www.youtube.com/watch?v=e_ttAm4LzHo)
 * ["Python-джедай #17 - Комментирование, pass, Кортежи (Tuples)", Хауди Хо](https://www.youtube.com/watch?v=xUs6VaJRN5w)
+* ["Python-джедай #18 - Срез списка [List slicing & indexing]", Хауди Хо](https://www.youtube.com/watch?v=MEJbfLBIirI)
 
 
 ---
