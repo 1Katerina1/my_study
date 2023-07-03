@@ -52,6 +52,9 @@ __28.06.2023:__
 * ["Python-джедай #17 - Комментирование, pass, Кортежи (Tuples)", Хауди Хо](https://www.youtube.com/watch?v=xUs6VaJRN5w)
 * ["Python-джедай #18 - Срез списка [List slicing & indexing]", Хауди Хо](https://www.youtube.com/watch?v=MEJbfLBIirI)
 
+__03.07.2023:__
+* ["Python-джедай #19 - Форматирование строк", Хауди Хо](https://www.youtube.com/watch?v=2T9yybfUxTw)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
