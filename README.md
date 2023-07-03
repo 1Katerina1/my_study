@@ -54,6 +54,7 @@ __28.06.2023:__
 
 __03.07.2023:__
 * ["Python-джедай #19 - Форматирование строк", Хауди Хо](https://www.youtube.com/watch?v=2T9yybfUxTw)
+* ["Python-джедай #20 - Функции для работы со строками и числами", Хауди Хо](https://www.youtube.com/watch?v=RWsYbARuYLE)
 
 
 ---
