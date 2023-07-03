@@ -46,3 +46,67 @@ length = 14
 if ((length - len(input_str))%2):
     length += 1
 print(('{0:*^' + str(length) + '}').format(input_str))
+
+
+# Урок №20: Функции для работы со строками и числами
+# join, replace, startswith, endswith, lower, upper, split (строки)
+# min, max, abs, sum (числа)
+fruits = ['Лимоны', 'Яблоки', 'Киви', 'Ананас', 'Клубника']
+
+# join
+print(', '.join(fruits)) # => Лимоны, Яблоки, Киви, Ананас, Клубника
+print(' - '.join(fruits)) # => Лимоны - Яблоки - Киви - Ананас - Клубника
+
+# replace
+print('Hello, Artyom!'.replace('Artyom', 'Kate')) # => Hello, Kate!
+
+# startswith
+# Программа проверяет, начинается ли Ваше имя на A (англ.)
+name = input('Введите Ваше имя: ')
+if (name.startswith('A')):
+    print("Добро пожаловать! Вы в клубе имен, начинающихся с 'A'!")
+else:
+    print("Добро пожаловать!")
+
+# lower
+# Программа проверяет, начинается ли Ваше имя на A или a (англ. и рус.)
+name2 = input('Введите Ваше имя: ')
+if (name.lower().startswith('a') or name.lower().startswith('а')):
+    print("Добро пожаловать! Вы в клубе имен, начинающихся с 'A'!")
+else:
+    print("Добро пожаловать!")
+
+# Программа переделывает всю строку в строку с нижним регистром:
+any = input('Введите что-нибудь: ')
+print(any.lower())
+
+# endswith
+word = 'evening'
+if word.endswith('ing'):
+    print('Слово "' + word + '" заканчивается на "ing".')
+else:
+    print('Слово "' + word + '" не заканчивается на "ing".')
+
+# Программа переделывает всю строку в строку с верхним регистром:
+print('Hello!'.upper()) # => HELLO!
+
+# split
+members = 'James,Jonny,Jessie,Jack,John'
+print(members.split(',')) # => ['James', 'Jonny', 'Jessie', 'Jack', 'John']
+
+
+# min - принимает либо список, либо кортеж
+print(min(2, 10, 0, 34, -1, 54)) # => -1
+print(min([2, 10, 0, 34, 90, 54])) # => 0
+print(min((2, 10, 0, 34, -6, 54))) # => -6
+
+# max - принимает либо список, либо кортеж
+print(max((2, 10, 0, 34, -6, 54))) # => 54
+
+# abs() - возвращает модуль числа
+print(abs(-125)) # => 125
+print(abs(1245)) # => 1245
+
+# sum() - принимает либо список, либо кортеж
+print(sum([2, 5, 111])) # => 118
+print(sum([-56, 8382, -83654, 0, 11, -331, 648])) # => -75000
