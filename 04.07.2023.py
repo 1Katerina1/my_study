@@ -128,3 +128,30 @@ def binary_sum(number_a, number_b):
     binary_a = int(number_a, base=2)
     binary_b = int(number_b, base=2)
     return f'{binary_a + binary_b:b}'
+
+
+''' Hexlet:
+Напишите функцию diff, которая принимает два угла (int)
+и возвращает наименьшую разницу между ними.
+Примеры:
+
+from solution import diff
+diff(0, 45) # 45
+diff(0, 180) # 180
+diff(0, 190)  # не 190, а 170, потому что 170 меньше
+diff(120, 280) # 160 '''
+
+# Мое решение:
+def diff(a, b):
+    c = abs(a - b)
+
+    while c > 180:
+        c = c - 360
+    return abs(c)
+
+# Решение учителя:
+def diff(angle1, angle2):
+    return min(
+        (angle1 - angle2) % 360,
+        (angle2 - angle1) % 360,
+    )
