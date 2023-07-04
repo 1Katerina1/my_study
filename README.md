@@ -60,6 +60,7 @@ __04.07.2023:__
 * ["Урок 2 Варианты выполнения кода. Первая программа на Python", egoroff_channel](https://www.youtube.com/watch?v=mOQBZq9WCCY)
 * ["Урок 3 Знакомство с объектами. Числа и операции над ними Python", egoroff_channel](https://www.youtube.com/watch?v=fF1ZqTKMR6I)
 * [Испытание: Классификация отрезков](https://ru.hexlet.io/challenges/python_basics_line_classification_exercise)
+* [Испытание: Сумма двоичных чисел](https://ru.hexlet.io/challenges/python_basics_binary_sum_exercise)
 
 
 ---
