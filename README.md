@@ -57,6 +57,8 @@ __03.07.2023:__
 * ["Python-джедай #20 - Функции для работы со строками и числами", Хауди Хо](https://www.youtube.com/watch?v=RWsYbARuYLE)
 
 __04.07.2023:__
+* ["Урок 2 Варианты выполнения кода. Первая программа на Python", egoroff_channel](https://www.youtube.com/watch?v=mOQBZq9WCCY)
+* ["Урок 3 Знакомство с объектами. Числа и операции над ними Python", egoroff_channel](https://www.youtube.com/watch?v=fF1ZqTKMR6I)
 
 
 ---
