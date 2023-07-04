@@ -109,3 +109,22 @@ def is_inclined(line):
     (x2, y2) = pair2
     if (x1 != x2) and (y1 != y2):
         return True
+
+
+''' Hexlet:
+Реализуйте функцию binary_sum(), которая принимает на вход два
+двоичных числа в виде строк и возвращает их сумму.
+Вычисленная сумма также должна быть бинарным числом в виде строки:
+
+binary_sum('10', '1')      # 11
+binary_sum('1101', '101')  # 10010 '''
+
+# Мое решение:
+def binary_sum(num1, num2):
+    return format((int(num1, base=2) + int(num2, base=2)), 'b')
+
+# Решение учителя:
+def binary_sum(number_a, number_b):
+    binary_a = int(number_a, base=2)
+    binary_b = int(number_b, base=2)
+    return f'{binary_a + binary_b:b}'
