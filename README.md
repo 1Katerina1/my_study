@@ -63,6 +63,9 @@ __04.07.2023:__
 * [Испытание: Сумма двоичных чисел](https://ru.hexlet.io/challenges/python_basics_binary_sum_exercise)
 * [Испытание: Разница углов](https://ru.hexlet.io/challenges/python_basics_angle_difference_exercise)
 
+__06.07.2023:__
+* ["Алгоритмы на Python 3. Лекция №1", Тимофей Хирьянов](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
