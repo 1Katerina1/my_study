@@ -95,3 +95,45 @@ def fib(num):
         index += 1
 
     return result
+
+
+'''
+    Hexlet: Назовем счастливыми те числа, сумма квадратов цифр которого,
+    в результате ряда преобразований, превратятся в единицу.
+    
+    Например:
+    7   -> 7^2 = 49
+    49  -> 4^2 + 9^2 = 97
+    97  -> 9^2 + 7^2 = 130
+    130 -> 1^2 + 3^2 + 0^2 = 10
+    10  -> 1^2 + 0^2 = 1
+    Вывод: исходное число 7 — счастливое.
+
+    Реализуйте функцию is_happy_number(), которая возвращает True,
+    если число счастливое, и False — если нет.
+    Количество итераций процесса поиска необходимо ограничить числом 10.
+    Подсказки:
+    Воспользуйтесь вспомогательной функцией sum_of_square_digits(),
+    которая принимает на вход число и возвращает сумму квадратов цифр этого числа.
+'''
+def sum_of_square_digits(number):
+    return sum(int(x) ** 2 for x in str(number))
+
+# Мое решение:
+def is_happy_number(x):
+    i = 1
+    while i < 11:
+        result = sum_of_square_digits(x)
+        x = result
+        i += 1
+    if x == 1:
+        return True
+    return False
+
+# Решение учителя:
+def is_happy_number(number):
+    for _ in range(10):
+        if number == 1:
+            return True
+        number = sum_of_square_digits(number)
+    return False
