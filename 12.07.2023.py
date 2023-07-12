@@ -56,3 +56,42 @@ def factorize_number(x):
 
 print(factorize_number(1024))
 print(factorize_number(999))
+
+
+'''
+    Hexlet: Реализуйте функцию fib(), находящую положительные Числа Фибоначчи.
+    Аргументом функции является порядковый номер числа.
+        Формула:
+        f(0) = 0
+        f(1) = 1
+        f(n) = f(n-1) + f(n-2)
+
+    fib(3)  # 2
+    fib(5)  # 5
+    fib(10)  # 55
+'''
+
+# Мое решение:
+def fib(x):
+    numbers = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377]
+    return numbers[x]
+
+# Решение учителя:
+def fib(num):
+    if num == 0:
+        return 0
+
+    if num == 1:
+        return 1
+
+    first, second = 0, 1
+    result = first + second
+
+    index = 2
+    while index <= num:
+        result = first + second
+        first, second = second, result
+
+        index += 1
+
+    return result
