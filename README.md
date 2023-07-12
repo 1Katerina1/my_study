@@ -70,10 +70,13 @@ __07.07.2023:__
 * Законспектировано: ["Алгоритмы на Python 3. Лекция №1", Тимофей Хирьянов](https://www.youtube.com/watch?v=KdZ4HF1SrFs&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 
 __10.07.2023:__
-* Законспектировано: ["Алгоритмы на Python 3. Лекция №2" ,Тимофей Хирьянов](https://www.youtube.com/watch?v=ZgSx3yH7sJI&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=2)
+* Законспектировано: ["Алгоритмы на Python 3. Лекция №2", Тимофей Хирьянов](https://www.youtube.com/watch?v=ZgSx3yH7sJI&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=2)
 
 __11.07.2023:__
-* Законспектировано: ["Алгоритмы на Python 3. Лекция №3" ,Тимофей Хирьянов](https://www.youtube.com/watch?v=b8m9uRMpKJk&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=3)
+* Законспектировано: ["Алгоритмы на Python 3. Лекция №3", Тимофей Хирьянов](https://www.youtube.com/watch?v=b8m9uRMpKJk&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=3)
+
+__12.07.2023:__
+* Законспектировано: ["Алгоритмы на Python 3. Лекция №4", Тимофей Хирьянов](https://www.youtube.com/watch?v=DvsCUI5FNnI&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=4)
 
 
 ---
