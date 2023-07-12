@@ -77,7 +77,7 @@ __11.07.2023:__
 
 __12.07.2023:__
 * Законспектировано: ["Алгоритмы на Python 3. Лекция №4", Тимофей Хирьянов](https://www.youtube.com/watch?v=DvsCUI5FNnI&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=4)
-
+* [Испытание: Фибоначчи](https://ru.hexlet.io/challenges/python_basics_fib_exercise)
 
 ---
 ### А здесь изучаю оформление README.MD:
