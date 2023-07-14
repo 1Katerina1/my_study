@@ -83,7 +83,7 @@ __12.07.2023:__
 __14.07.2023:__
 * [Испытание: Идеальные числа](https://ru.hexlet.io/challenges/python_basics_perfect_numbers_exercise)
 * [Python: Cловари и множества](https://ru.hexlet.io/courses/python-dicts#challenges)
-    * Завершено: [Хеш-таблицы](https://ru.hexlet.io/courses/python-dicts/lessons/hash-table/theory_unit)
+    * Завершено: [Хеш-таблицы](https://ru.hexlet.io/courses/python-dicts/lessons/hash-table/theory_unit) (теория + тесты + упражнение)
 
 
 ---
