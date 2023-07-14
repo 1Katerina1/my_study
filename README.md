@@ -80,6 +80,9 @@ __12.07.2023:__
 * [Испытание: Фибоначчи](https://ru.hexlet.io/challenges/python_basics_fib_exercise)
 * [Испытание: Счастливые числа](https://ru.hexlet.io/challenges/python_basics_happy_numbers_exercise)
 
+__14.07.2023:__
+* [Испытание: Идеальные числа](https://ru.hexlet.io/challenges/python_basics_perfect_numbers_exercise)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
