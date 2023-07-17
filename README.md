@@ -85,6 +85,8 @@ __14.07.2023:__
 * [Python: Cловари и множества](https://ru.hexlet.io/courses/python-dicts#challenges)
     * Завершено: [Хеш-таблицы](https://ru.hexlet.io/courses/python-dicts/lessons/hash-table/theory_unit) (теория + тесты + упражнение)
 
+__17.07.2023:__
+* Законспектировано: ["Алгоритмы на Python 3. Лекция №5", Тимофей Хирьянов](https://www.youtube.com/watch?v=3I6OjxoeSS8&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=5)
 
 ---
 ### А здесь изучаю оформление README.MD:
