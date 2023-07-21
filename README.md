@@ -90,9 +90,9 @@ __17.07.2023:__
 
 __20.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
-    * Позиционные аргументы: ✓[теория](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/theory_unit) ☑[тесты](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/quiz_unit) ☑[упражнение](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/exercise_unit)
-    * Завершено: [Именованные аргументы](https://ru.hexlet.io/courses/python-functions/lessons/keyword-arguments/theory_unit)
-    * Завершено: [Больше об именованных аргументах](https://ru.hexlet.io/courses/python-functions/lessons/more-keyword-arguments/theory_unit)
+    * Позиционные аргументы: ✓[теория](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/theory_unit) ✔[тесты](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/quiz_unit) ☑[упражнение](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/exercise_unit)
+    * Именованные аргументы: ✔[теория](https://ru.hexlet.io/courses/python-functions/lessons/keyword-arguments/theory_unit) ✔[тесты](https://ru.hexlet.io/courses/python-functions/lessons/keyword-arguments/quiz_unit) ✔[упражнение](https://ru.hexlet.io/courses/python-functions/lessons/keyword-arguments/exercise_unit)
+    * Больше об именованных аргументах: ✔[теория](https://ru.hexlet.io/courses/python-functions/lessons/more-keyword-arguments/theory_unit) ✔[тесты](https://ru.hexlet.io/courses/python-functions/lessons/more-keyword-arguments/quiz_unit) ✔[упражнение](https://ru.hexlet.io/courses/python-functions/lessons/more-keyword-arguments/exercise_unit)
 
 
 ---
