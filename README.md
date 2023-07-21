@@ -88,6 +88,13 @@ __14.07.2023:__
 __17.07.2023:__
 * Законспектировано: ["Алгоритмы на Python 3. Лекция №5", Тимофей Хирьянов](https://www.youtube.com/watch?v=3I6OjxoeSS8&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=5)
 
+__20.07.2023:__
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * Завершено: [Позиционные аргументы](https://ru.hexlet.io/courses/python-functions/lessons/positional-args/theory_unit)
+    * Завершено: [Именованные аргументы](https://ru.hexlet.io/courses/python-functions/lessons/keyword-arguments/theory_unit)
+    * Завершено: [Больше об именованных аргументах](https://ru.hexlet.io/courses/python-functions/lessons/more-keyword-arguments/theory_unit)
+
+
 ---
 ### А здесь изучаю оформление README.MD:
 
