@@ -98,6 +98,9 @@ __21.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 5/15 Операторы упаковки и распаковки: [теория](https://ru.hexlet.io/courses/python-functions/lessons/packaging-and-unpacking-operators/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/packaging-and-unpacking-operators/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/packaging-and-unpacking-operators/exercise_unit)
 
+__24.07.2023:__
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * 6/15 Функции высшего порядка: [теория](https://ru.hexlet.io/courses/python-functions/lessons/high-order-functions/theory_unit), тесты, упражнение
 
 ---
 ### А здесь изучаю оформление README.MD:
