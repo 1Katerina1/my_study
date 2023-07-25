@@ -100,7 +100,9 @@ __21.07.2023:__
 
 __24.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
-    * 6/15 Функции высшего порядка: [теория](https://ru.hexlet.io/courses/python-functions/lessons/high-order-functions/theory_unit), тесты, упражнение
+    * 6/15 Функции высшего порядка: [теория](https://ru.hexlet.io/courses/python-functions/lessons/high-order-functions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/high-order-functions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/high-order-functions/exercise_unit)
+
+__25.07.2023:__
 
 ---
 ### А здесь изучаю оформление README.MD:
