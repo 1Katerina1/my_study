@@ -110,6 +110,10 @@ __25.07.2023:__
 __26.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 9/15 Встроенные map, filter, reduce: [теория](https://ru.hexlet.io/courses/python-functions/lessons/real-map-filter-reduce/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/real-map-filter-reduce/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/real-map-filter-reduce/exercise_unit)
+
+__27.07.2023:__
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * 10/15 Замыкания: [теория](https://ru.hexlet.io/courses/python-functions/lessons/closures/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/closures/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/closures/exercise_unit)
     
 
 ---
