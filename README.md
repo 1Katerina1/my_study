@@ -106,7 +106,11 @@ __25.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 7/15 Знакомство с map, filter и reduce: [теория](https://ru.hexlet.io/courses/python-functions/lessons/map-filter-reduce/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/map-filter-reduce/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/map-filter-reduce/exercise_unit)
     * 8/15 Чистые функции: [теория](https://ru.hexlet.io/courses/python-functions/lessons/pure-functions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/pure-functions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/pure-functions/exercise_unit)
-    * 9/15 Встроенные map, filter, reduce: 
+    
+__26.07.2023:__
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * 9/15 Встроенные map, filter, reduce: [теория](https://ru.hexlet.io/courses/python-functions/lessons/real-map-filter-reduce/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/real-map-filter-reduce/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/real-map-filter-reduce/exercise_unit)
+    
 
 ---
 ### А здесь изучаю оформление README.MD:
