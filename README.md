@@ -115,6 +115,10 @@ __27.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 10/15 Замыкания: [теория](https://ru.hexlet.io/courses/python-functions/lessons/closures/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/closures/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/closures/exercise_unit)
     * 11/15  Анонимные функции: [теория](https://ru.hexlet.io/courses/python-functions/lessons/lambda-functions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/lambda-functions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/lambda-functions/exercise_unit)
+
+__30.07.2023:__
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * 12/15 Декораторы: [теория](https://ru.hexlet.io/courses/python-functions/lessons/decorators/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/decorators/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/decorators/exercise_unit)
     
 
 ---
