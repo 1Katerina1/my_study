@@ -119,7 +119,10 @@ __27.07.2023:__
 __30.07.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 12/15 Декораторы: [теория](https://ru.hexlet.io/courses/python-functions/lessons/decorators/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/decorators/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/decorators/exercise_unit)
-    
+
+__31.07.2023:__
+* ["Замыкания в Python. Closure Python", egoroff_channel](https://www.youtube.com/watch?v=lA979PBb0TY)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
