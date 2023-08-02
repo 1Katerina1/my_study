@@ -123,6 +123,9 @@ __30.07.2023:__
 __31.07.2023:__
 * ["Замыкания в Python. Closure Python", egoroff_channel](https://www.youtube.com/watch?v=lA979PBb0TY)
 
+__02.08.2023:__
+* [Замыкания в Python Часть 2. Closure Python part 2, egoroff_channel](https://www.youtube.com/watch?v=vrkLShOYwI0&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=66)
+
 
 ---
 ### А здесь изучаю оформление README.MD:
