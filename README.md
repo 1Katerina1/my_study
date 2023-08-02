@@ -130,15 +130,15 @@ __02.08.2023:__
 
 
 ---
-#### Полезные ссылки:
-[Изучаем продвинутые возможности Python, часть 2: замыкания, декораторы, модуль functools](https://ru.hexlet.io/blog/posts/izuchaem-prodvinutye-vozmozhnosti-python-chast-2-zamykaniya-dekoratory-modul-functools)
-[Совершенный код: ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
-[Совершенный код: нисходящее и восходящее проектирование](https://ru.hexlet.io/blog/posts/sovershennyy-kod-nishodyaschee-i-voshodyaschee-proektirovanie)
-[Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
-[Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/ru/learning/?_gl=1*v9uqoc*_ga*MjE0NDA1MDEyMi4xNjgzNDkyMDc2*_ga_PM3R85EKHN*MTY4NTIxMDQ4Ni43Mi4xLjE2ODUyMTA0OTIuNTkuMC4w*_ga_WWGZ6EVHEY*MTY4NTIxMDQ4Ni43NS4xLjE2ODUyMTA1NDkuMi4wLjA.)
-[Как эффективно читать профессиональную литературу](https://ru.hexlet.io/blog/posts/how-to-read-books)
-[Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message#pravilo-1-ostavlyayte-pustuyu-stroku-mezhdu-zagolovkom-i-opisaniem)
-[Совершенный код: именование в программировании](https://ru.hexlet.io/blog/posts/naming-in-programming)
+### Полезные ссылки:
+* [Изучаем продвинутые возможности Python, часть 2: замыкания, декораторы, модуль functools](https://ru.hexlet.io/blog/posts/izuchaem-prodvinutye-vozmozhnosti-python-chast-2-zamykaniya-dekoratory-modul-functools)
+* [Совершенный код: ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
+* [Совершенный код: нисходящее и восходящее проектирование](https://ru.hexlet.io/blog/posts/sovershennyy-kod-nishodyaschee-i-voshodyaschee-proektirovanie)
+* [Начинаем писать тесты (правильно)](https://ru.hexlet.io/blog/posts/how-to-test-code)
+* [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/ru/learning/?_gl=1*v9uqoc*_ga*MjE0NDA1MDEyMi4xNjgzNDkyMDc2*_ga_PM3R85EKHN*MTY4NTIxMDQ4Ni43Mi4xLjE2ODUyMTA0OTIuNTkuMC4w*_ga_WWGZ6EVHEY*MTY4NTIxMDQ4Ni43NS4xLjE2ODUyMTA1NDkuMi4wLjA.)
+* [Как эффективно читать профессиональную литературу](https://ru.hexlet.io/blog/posts/how-to-read-books)
+* [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message#pravilo-1-ostavlyayte-pustuyu-stroku-mezhdu-zagolovkom-i-opisaniem)
+* [Совершенный код: именование в программировании](https://ru.hexlet.io/blog/posts/naming-in-programming)
 ---
 ### А здесь изучаю оформление README.MD:
 
