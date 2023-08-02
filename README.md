@@ -125,6 +125,7 @@ __31.07.2023:__
 
 __02.08.2023:__
 * [Замыкания в Python Часть 2. Closure Python part 2, egoroff_channel](https://www.youtube.com/watch?v=vrkLShOYwI0&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=66)
+* [Декораторы в Python Часть 1. Decorator Python, egoroff_channel](https://www.youtube.com/watch?v=Va-ovLxHmus&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=67)
 
 
 ---
