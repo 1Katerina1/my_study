@@ -105,3 +105,121 @@ def mult(a, b, c):
 
 m = counter(mult)
 print(m(1, 3, 5)) # Функция mult вызывалась 1 раз(а). 15
+
+
+# Декораторы в Python Часть 1. Decorator Python (egoroff_channel)
+def decorator(func):
+    def inner():
+        print('Start decorator ...')
+        func()
+        print('Finish decorator ...')
+    return inner
+
+def say():
+    print('Hello, World!')
+
+say = decorator(say)
+say() # Теперь при вызове say результатом ф-ии является работа самой ф-ии и декоратора
+# => Start decorator ...
+# => Hello, World!
+# => Finish decorator ...
+
+def buy():
+    print('Buy, World!')
+
+buy = decorator(buy)
+buy()
+# => Start decorator ...
+# => Buy, World!
+# => Finish decorator ...
+
+# теперь ф-я будет принимать один аргумент:
+def say_hello(name):
+    print(f'Hello, {name}!')
+
+def decor(func):
+    def inner(n):
+        print('Start decorator ...')
+        func(n)
+        print('Finish decorator ...')
+    return inner
+
+say_hello = decor(say_hello)
+say_hello('Jhon')
+# => Start decorator ...
+# => Hello, Jhon!
+# => Finish decorator ...
+
+# теперь ф-я будет принимать два аргумента:
+def say_hello2(name, surname):
+    print(f'Hello, {name} {surname}!')
+
+def decor(func):
+    def inner(n, s):
+        print('Start decorator ...')
+        func(n, s)
+        print('Finish decorator ...')
+    return inner
+
+say_hello2 = decor(say_hello2)
+say_hello2('Sam', 'Polyvianniy')
+# => Start decorator ...
+# => Hello, Sam Polyvianniy!
+# => Finish decorator ...
+
+# Ф-я может принимать различное кол-во аргументов и чтобы каждый раз не изменять декоратор,
+# можно использовать *args и **kwargs:
+def say_hello3(name, surname, age):
+    print(f'Hello, {name} {surname}! Тебе уже {age}!')
+
+def decor(func):
+    def inner(*args, **kwargs):
+        print('Start decorator ...')
+        func(*args, **kwargs)
+        print('Finish decorator ...')
+    return inner
+
+say_hello3 = decor(say_hello3)
+say_hello3('Sam', 'Polyvianniy', 27)
+# => Start decorator ...
+# => Hello, Sam Polyvianniy! Тебе уже 27!
+# => Finish decorator ...
+
+# Другой пример с двумя декораторами:
+def header(func):
+    def inner(*args, **kwargs):
+        print('<h1>')
+        func(*args, **kwargs)
+        print('</h1>')
+    return inner
+
+def table(func):
+    def inner(*args, **kwargs):
+        print('<table>')
+        func(*args, **kwargs)
+        print('</table>')
+    return inner
+
+def SAY(name):
+    print(f'Hello, {name}!')
+
+SAY = table(header(SAY)) # но обычно ф-ии так не декорируют
+SAY('Sam')
+# => <table>
+# => <h1>
+# => Hello, Sam!
+# => </h1>
+# => </table>
+
+# Декораторы принято навешивать с помощью значка '@' перед ф-ей:
+@header # SAY = header(SAY)
+@table # SAY = header(table(SAY))
+def SAY(name):
+    print(f'Hello, {name}!')
+
+SAY('Kate')
+# => <h1>
+# => <table>
+# => Hello, Kate!
+# => </table>
+# => </h1>
