@@ -223,3 +223,70 @@ SAY('Kate')
 # => Hello, Kate!
 # => </table>
 # => </h1>
+
+
+# Декораторы в Python Часть 2. Декоратор wraps. Decorator Python (egoroff_channel)
+def table(func):
+    def inner(*args, **kwargs):
+        print('<table>')
+        func(*args, **kwargs)
+        print('</table>')
+    return inner
+
+def say():
+    ''' Печатает на экран 'Hello, World!' '''
+    print(f'Hello, World!')
+
+#help(say) # => Печатает на экран 'Hello, World!'
+print(say.__name__) # => say
+
+say = table(say)
+say()
+# => <table>
+# => Hello, World!
+# => </table>
+
+#help(say) # После декорирования ф-ии мы больше не можем обратиться к ее документации,
+# а так же мы теряем ее имя:
+print(say.__name__) # => inner
+
+print('-----')
+# Вот как можно решить проблему потери имени и документации:
+def table2(func):
+    def inner(*args, **kwargs):
+        print('<table>')
+        func(*args, **kwargs)
+        print('</table>')
+    inner.__name__ = func.__name__
+    inner.__doc__ = func.__doc__
+    return inner
+
+def say2():
+    ''' Печатает на экран 'Hello, World!' '''
+    print(f'Hello, World!')
+
+#help(say2) # Печатает на экран 'Hello, World!'
+print(say2.__name__) # => say2
+
+say2 = table2(say2)
+print(say2.__name__) # => say2
+
+print('-----')
+# Есть второй способ решить эту проблему:
+from functools import wraps
+
+def table3(func):
+    @wraps(func) # В качестве аргумента - ф-я, которую мы декорируем
+    def inner(*args, **kwargs):
+        print('<table>')
+        func(*args, **kwargs)
+        print('</table>')
+    return inner
+
+def say3():
+    ''' Печатает на экран 'Hello, World!' '''
+    print(f'Hello, World!')
+
+say3() # => Hello, World!
+say3 = table3(say3)
+print(say3.__name__) # => say3
