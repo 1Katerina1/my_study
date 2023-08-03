@@ -124,9 +124,12 @@ __31.07.2023:__
 * ["Замыкания в Python. Closure Python", egoroff_channel](https://www.youtube.com/watch?v=lA979PBb0TY)
 
 __02.08.2023:__
-* [Замыкания в Python Часть 2. Closure Python part 2, egoroff_channel](https://www.youtube.com/watch?v=vrkLShOYwI0&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=66)
-* [Декораторы в Python Часть 1. Decorator Python, egoroff_channel](https://www.youtube.com/watch?v=Va-ovLxHmus&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=67)
-* [Декораторы в Python Часть 2. Декоратор wraps. Decorator Python, egoroff_channel](https://www.youtube.com/watch?v=tj8EiBK8TeA&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=68)
+* ["Замыкания в Python Часть 2. Closure Python part 2", egoroff_channel](https://www.youtube.com/watch?v=vrkLShOYwI0&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=66)
+* ["Декораторы в Python Часть 1. Decorator Python", egoroff_channel](https://www.youtube.com/watch?v=Va-ovLxHmus&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=67)
+* ["Декораторы в Python Часть 2. Декоратор wraps. Decorator Python", egoroff_channel](https://www.youtube.com/watch?v=tj8EiBK8TeA&list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&index=68)
+
+__03.08.2023:__
+* ["Декоратор с параметрами", Python Russian](https://www.youtube.com/watch?v=5oFZBkEnXnk)
 
 
 ---
