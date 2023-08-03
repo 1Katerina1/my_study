@@ -134,6 +134,7 @@ __03.08.2023:__
 
 ---
 ### Полезные ссылки:
+* ["Изучаем Python", Марк Лутц](https://www.litres.ru/book/mark-lutc/izuchaem-python-3-e-izdanie-24500438/)
 * [Изучаем продвинутые возможности Python, часть 2: замыкания, декораторы, модуль functools](https://ru.hexlet.io/blog/posts/izuchaem-prodvinutye-vozmozhnosti-python-chast-2-zamykaniya-dekoratory-modul-functools)
 * [Совершенный код: ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
 * [Совершенный код: нисходящее и восходящее проектирование](https://ru.hexlet.io/blog/posts/sovershennyy-kod-nishodyaschee-i-voshodyaschee-proektirovanie)
