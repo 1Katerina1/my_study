@@ -134,6 +134,8 @@ __03.08.2023:__
 __07.08.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 13/15 Больше о декораторах: [теория](https://ru.hexlet.io/courses/python-functions/lessons/more-decorators/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/more-decorators/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/more-decorators/exercise_unit)
+* [Испытание: Фибоначчи](https://ru.hexlet.io/challenges/python_basics_fib_exercise)
+
 
 ---
 ### Полезные ссылки:
