@@ -131,6 +131,9 @@ __02.08.2023:__
 __03.08.2023:__
 * ["Декоратор с параметрами", Python Russian](https://www.youtube.com/watch?v=5oFZBkEnXnk)
 
+__07.08.2023:__
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * 13/15 Больше о декораторах: [теория](https://ru.hexlet.io/courses/python-functions/lessons/more-decorators/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/more-decorators/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/more-decorators/exercise_unit)
 
 ---
 ### Полезные ссылки:
