@@ -137,6 +137,9 @@ __07.08.2023:__
 * [Испытание: Фибоначчи](https://ru.hexlet.io/challenges/python_basics_fib_exercise)
 * ["41 Рекурсия в Python. Рекурсивная функция Часть 1", egoroff_channel](https://www.youtube.com/watch?v=jvFULnNpNLg)
 
+__09.08.2023:__
+* ["42 Рекурсия в Python. Рекурсивная функция Часть 2", egoroff_channel](https://www.youtube.com/watch?v=rzGCxtZdMuM)
+
 
 ---
 ### Полезные ссылки:
