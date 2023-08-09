@@ -139,6 +139,8 @@ __07.08.2023:__
 
 __09.08.2023:__
 * ["42 Рекурсия в Python. Рекурсивная функция Часть 2", egoroff_channel](https://www.youtube.com/watch?v=rzGCxtZdMuM)
+* [Python: Функции](https://ru.hexlet.io/courses/python-functions)
+    * 14/15 Рекурсия: [теория](https://ru.hexlet.io/courses/python-functions/lessons/recursion/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/recursion/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/recursion/exercise_unit)
 
 
 ---
