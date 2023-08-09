@@ -142,7 +142,9 @@ __09.08.2023:__
 * [Python: Функции](https://ru.hexlet.io/courses/python-functions)
     * 14/15 Рекурсия: [теория](https://ru.hexlet.io/courses/python-functions/lessons/recursion/theory_unit), [тесты](https://ru.hexlet.io/courses/python-functions/lessons/recursion/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-functions/lessons/recursion/exercise_unit)
     * 15/15 [Заключение](https://ru.hexlet.io/courses/python-functions/lessons/outro/theory_unit)
-
+* [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
+    * 1/7 Введение: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/declarative-way/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/declarative-way/quiz_unit)
+    
 
 ---
 ### Полезные ссылки:
