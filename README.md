@@ -144,10 +144,12 @@ __09.08.2023:__
     * 15/15 [Заключение](https://ru.hexlet.io/courses/python-functions/lessons/outro/theory_unit)
 * [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
     * 1/7 Введение: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/declarative-way/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/declarative-way/quiz_unit)
-    
+
 
 ---
 ### Полезные ссылки:
+* [Понимаем декораторы в Python'e, шаг за шагом. Шаг 1](https://habr.com/ru/articles/141411/)
+* [Понимаем декораторы в Python'e, шаг за шагом. Шаг 2](https://habr.com/ru/articles/141501/)
 * ["Изучаем Python", Марк Лутц](https://www.litres.ru/book/mark-lutc/izuchaem-python-3-e-izdanie-24500438/)
 * [Изучаем продвинутые возможности Python, часть 2: замыкания, декораторы, модуль functools](https://ru.hexlet.io/blog/posts/izuchaem-prodvinutye-vozmozhnosti-python-chast-2-zamykaniya-dekoratory-modul-functools)
 * [Совершенный код: ошибки именования в программировании I](https://ru.hexlet.io/blog/posts/naming-errors-1)
