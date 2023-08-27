@@ -145,6 +145,10 @@ __09.08.2023:__
 * [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
     * 1/7 Введение: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/declarative-way/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/declarative-way/quiz_unit)
 
+__14.08.2023:__
+* [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
+    * 2/7 Функциональный и процедурный подход: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/imperative-and-functional-python/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/imperative-and-functional-python/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/imperative-and-functional-python/exercise_unit)
+
 
 ---
 ### Полезные ссылки:
