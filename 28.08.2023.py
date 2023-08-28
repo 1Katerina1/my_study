@@ -92,3 +92,29 @@ def non_empty_truths(lists):
     return [x for x in [[el for el in l_ if el] for l_ in lists] if x]
 print(non_empty_truths([[False, 2, 3, 0], []]))
 print(non_empty_truths([[0, ''], [False, None]]))
+
+
+# 4. Генераторы множеств и словарей
+# Генераторы множеств:
+squares = {x * x for x in range(10)}
+print(squares) # => {0, 1, 64, 4, 36, 9, 16, 49, 81, 25}
+print(5 * 5 in squares) # => True
+print(10 * 10 in squares) # => False
+
+# Генераторы словарей. Нужно сгенерировать не только значение, но и ключ. При этом ключ надо указать через двоеточие:
+char_positions = {char: pos for char, pos in enumerate("Hello, World!")}
+print(char_positions)
+# => {0: 'H', 1: 'e', 2: 'l', 3: 'l', 4: 'o', 5: ',', 6: ' ', 7: 'W', 8: 'o', 9: 'r', 10: 'l', 11: 'd', 12: '!'}
+print(char_positions[4]) # => 'o'
+
+print([(char, pos) for pos, char in enumerate("Hello, World!") if char == 'l'])
+# => [('l', 2), ('l', 3), ('l', 10)]
+
+# Упражнение:
+def number_of_unique_letters(string):
+    return len({x.lower() for x in string if x.isalpha()})
+
+print(number_of_unique_letters('Hello.//Hh')) # => 4
+print(number_of_unique_letters('o_O')) # => 1
+print(number_of_unique_letters('A-a-a-a-a-a!')) # => 1
+print(number_of_unique_letters('AaBbCcDd')) # => 4
