@@ -153,7 +153,10 @@ __28.08.2023:__
 * [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
     * 3/7 Генераторы списков: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/list-comprehensions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/list-comprehensions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/list-comprehensions/exercise_unit)
     * 4/7 Генераторы множеств и словарей: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/set-and-dict-comprehensions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/set-and-dict-comprehensions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/set-and-dict-comprehensions/exercise_unit)
-    
+
+__29.08.2023:__
+* [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
+    * 5/7 Генераторные выражения: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-expressions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-expressions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-expressions/exercise_unit)
 
 ---
 ### Полезные ссылки:
