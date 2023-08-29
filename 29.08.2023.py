@@ -31,3 +31,40 @@ def some2d(test, matrix):
 
 def sum2d(test, matrix):
     return sum(el for row in matrix for el in row if test(el))
+
+
+# 6. Функции-генераторы
+# Упражнение:
+def my_map(f, xs):
+    for el in xs:
+        yield f(el)
+
+print(list(my_map(abs, [-1, 2, -3]))) # [1, 2, 3]
+
+
+def my_filter(f, xs):
+    for el in xs:
+        if f(el):
+            yield el
+
+print(list(my_filter(lambda x: x % 2 == 1, range(10)))) # [1, 3, 5, 7, 9]
+
+print('-' * 12)
+
+def replicate_each(n, xs):
+    for el in xs:
+        for i in range(n):
+            yield el
+
+print(list(replicate_each(1, [1, 'a'])))  # [1, 'a']
+print(list(replicate_each(3, [1, 'a'])))  # [1, 1, 1, 'a', 'a', 'a']
+print(list(replicate_each(0, [1, 'a'])))  # []
+
+# Аналогично:
+def replicate_each_analog(n, xs):
+    for el in xs:
+        yield from (el for i in range(n))
+
+print(list(replicate_each_analog(1, [1, 'a'])))  # [1, 'a']
+print(list(replicate_each_analog(3, [1, 'a'])))  # [1, 1, 1, 'a', 'a', 'a']
+print(list(replicate_each_analog(0, [1, 'a'])))  # []

@@ -157,6 +157,9 @@ __28.08.2023:__
 __29.08.2023:__
 * [Python: Декларативное программирование](https://ru.hexlet.io/courses/python-declarative-programming)
     * 5/7 Генераторные выражения: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-expressions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-expressions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-expressions/exercise_unit)
+    * 6/7 Функции-генераторы: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-functions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-functions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-functions/exercise_unit)
+    * 7/7 [Заключение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/outro/theory_unit)
+
 
 ---
 ### Полезные ссылки:
