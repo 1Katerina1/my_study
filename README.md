@@ -160,6 +160,8 @@ __29.08.2023:__
     * 6/7 Функции-генераторы: [теория](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-functions/theory_unit), [тесты](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-functions/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/generator-functions/exercise_unit)
     * 7/7 [Заключение](https://ru.hexlet.io/courses/python-declarative-programming/lessons/outro/theory_unit)
 
+__30.08.2023:__
+* [Испытание: Статистика матчей по командам](https://ru.hexlet.io/challenges/python_declarative_programming_team_stats_exercise)
 
 ---
 ### Полезные ссылки:
