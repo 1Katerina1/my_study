@@ -168,6 +168,8 @@ __31.08.2023:__
     * 1/12 [Введение](https://ru.hexlet.io/courses/python-testing/lessons/intro/theory_unit)
     * 2/12 Цели тестирования: [теория](https://ru.hexlet.io/courses/python-testing/lessons/goal/theory_unit), [тесты](https://ru.hexlet.io/courses/python-testing/lessons/goal/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-testing/lessons/goal/exercise_unit)
     * 3/12 Утверждения: [теория](https://ru.hexlet.io/courses/python-testing/lessons/assert/theory_unit), [тесты](https://ru.hexlet.io/courses/python-testing/lessons/assert/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-testing/lessons/assert/exercise_unit)
+    * 4/12 Фреймворк Pytest: [теория](https://ru.hexlet.io/courses/python-testing/lessons/pytest/theory_unit), [тесты](https://ru.hexlet.io/courses/python-testing/lessons/pytest/quiz_unit), [упражнение](https://ru.hexlet.io/courses/python-testing/lessons/pytest/exercise_unit)
+
 
 ---
 ### Полезные ссылки:
